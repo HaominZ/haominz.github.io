@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-My blog for fun!
+我的博客
