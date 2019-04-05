@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to my blog!"
+title:  "欢迎来到我的博客!"
 date:   2019-04-05 14:30:00 +0800
 categories: jekyll update
 ---
 
-Welcome to my blog!
+欢迎来到我的博客!
